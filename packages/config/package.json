@@ -1,0 +1,12 @@
+{
+  "name": "@sentical/config",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./ts/tsconfig.base.json",
+  "exports": {
+    "./tsconfig.base": "./ts/tsconfig.base.json",
+    "./tsconfig.react": "./ts/tsconfig.react.json",
+    "./tsconfig.node": "./ts/tsconfig.node.json",
+    "./tailwind": "./tailwind/tailwind.config.js"
+  }
+}

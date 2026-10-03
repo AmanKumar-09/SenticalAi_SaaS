@@ -1,0 +1,28 @@
+# ==================================================
+# SENTICAL AI CODEOWNERS
+# ==================================================
+
+# Default Owners
+* @you
+
+# Marketing Frontend Application
+/apps/marketing/     @dev1 @dev2
+
+# Authenticated Web Dashboard
+/apps/web/           @you
+
+# Express Backend API
+/apps/api/           @you
+
+# Worker Service
+/apps/worker/        @you
+
+# Shared Packages
+/packages/db/        @you
+/packages/whatsapp/  @you
+/packages/shared/    @you
+/packages/ui/        @you
+/packages/config/    @you
+
+# Documentation
+/docs/               @you @dev1 @dev2
